@@ -1,6 +1,6 @@
 # Pico-zkCoprocessor
 
-Pico-zkCoprocessor provides efficient and secure access to historical blockchain data, these coprocessors enables developers to retrieve and analyze past transaction records, state data, and other on-chain information with confidence.
+Pico-zkCoprocessor provides efficient and secure access to historical blockchain data, these coprocessors enable developers to retrieve and analyze past transaction records, state data, and other on-chain information with confidence.
 
 ## Quick start ##
 
